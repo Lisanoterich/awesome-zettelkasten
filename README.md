@@ -38,6 +38,7 @@
 - [Roam](https://roamresearch.com)
 - [Sublimeless_ZK](https://github.com/renerocksai/sublimeless_zk)
 - [Supernotes](https://supernotes.app)
+- [SwarmVault](https://swarmvault.ai)
 - [The Archive](https://zettelkasten.de/the-archive/)
 - [TiddlyWiki](https://tiddlywiki.com) with extra plugins ([TiddlyBlink](https://giffmex.org/gifts/tiddlyblink.html), [TiddlyMap](http://tiddlymap.org))
 - [Zettlr](https://zettlr.com/)
