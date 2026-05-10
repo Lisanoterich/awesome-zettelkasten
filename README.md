@@ -91,6 +91,7 @@
 - [roam-to-git](https://github.com/MatthieuBizien/roam-to-git). Automatic RoamResearch backup.
 - [slipbox](https://github.com/lggruspe/slipbox). A static site generator for Zettelkasten notes.
 - [vizel](https://github.com/BasilPH/vizel). See the stats and connections of your Zettelkasten.
+- [zk-reindex-launchd](https://github.com/johntrandall/zk-reindex-launchd). macOS LaunchAgent that auto-reindexes [zk](https://github.com/zk-org/zk) notebooks on a schedule. Set-and-forget — keeps queries (CLI, LSP, MCP) current after edits made outside an LSP-aware editor.
 
 ## Reference managers
 
