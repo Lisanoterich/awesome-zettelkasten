@@ -41,7 +41,7 @@
 - [The Archive](https://zettelkasten.de/the-archive/)
 - [TiddlyWiki](https://tiddlywiki.com) with extra plugins ([TiddlyBlink](https://giffmex.org/gifts/tiddlyblink.html), [TiddlyMap](http://tiddlymap.org))
 - [Zettlr](https://zettlr.com/)
-- [zk](https://github.com/AndrewCopeland/zettelkasten)
+- [zk](https://github.com/zk-org/zk). Plain-text Zettelkasten on the command line, with native LSP support and editor integrations for Neovim, Emacs, and VSCode.
 - [zknotes](https://github.com/bburdette/zknotes)
 - [Zkn³](http://zettelkasten.danielluedecke.de/en/)
 - [FSNotes](https://fsnot.es)
